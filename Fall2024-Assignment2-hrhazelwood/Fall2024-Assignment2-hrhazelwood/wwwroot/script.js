@@ -54,7 +54,7 @@ $("#title").click(function () {
         $("html").css("background-image", "url(https://images.unsplash.com/photo-1463043254199-7a3efd782ad1?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)")
         textShowing = false;
     } else {
-        $("html").css("background-image", "url(https://images.unsplash.com/photo-1526781100743-007e0dc2b474?q=80&w=2836&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)")
+        $("html").css("background-image", "url(https://images.unsplash.com/photo-1557342515-ee7b94524aae?q=80&w=2748&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)")
         textShowing = true;
     }
 });
@@ -100,4 +100,4 @@ $("#luckyButton").click(function () {
     lucky = false;
 });
 
-
+$("#searchButton, #luckyButton, #currentTime").button();
