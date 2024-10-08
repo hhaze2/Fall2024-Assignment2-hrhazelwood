@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hannahhazelwood/Projects/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood.csproj": {}
+    "/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood.csproj": {}
   },
   "projects": {
-    "/Users/hannahhazelwood/Projects/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood.csproj": {
+    "/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannahhazelwood/Projects/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood.csproj",
+        "projectUniqueName": "/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood.csproj",
         "projectName": "Fall2024-Assignment2-hrhazelwood",
-        "projectPath": "/Users/hannahhazelwood/Projects/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood.csproj",
+        "projectPath": "/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood.csproj",
         "packagesPath": "/Users/hannahhazelwood/.nuget/packages/",
-        "outputPath": "/Users/hannahhazelwood/Projects/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/obj/",
+        "outputPath": "/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hannahhazelwood/.nuget/NuGet/NuGet.Config"

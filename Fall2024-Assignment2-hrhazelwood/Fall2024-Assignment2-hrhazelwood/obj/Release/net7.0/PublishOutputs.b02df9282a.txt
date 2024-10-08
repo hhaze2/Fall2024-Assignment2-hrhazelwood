@@ -1,0 +1,7 @@
+/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-hrhazelwood
+/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-hrhazelwood.dll
+/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-hrhazelwood.deps.json
+/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-hrhazelwood.runtimeconfig.json
+/Users/hannahhazelwood/cs330/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/Fall2024-Assignment2-hrhazelwood/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment2-hrhazelwood.pdb

@@ -1,0 +1,59 @@
+ html{
+    height: 100%;
+    /* background-image: url(https://images.unsplash.com/photo-1526781100743-007e0dc2b474?q=80&w=2836&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;  */
+    margin: 0;
+    background: url(https://images.unsplash.com/photo-1557342515-ee7b94524aae?q=80&w=2748&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+        no-repeat center center fixed;
+    
+    background-size: cover;
+    font-family: sans-serif;
+
+}
+
+/* implements a flexbox for the content */
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    text-align: left;
+}
+
+/* set visibility to hidden for both the searchResults and time divs */
+#searchResults, time {
+    visibility: hidden;
+    
+}
+
+/* styling the title */
+#title {
+    border: 10px  #fcd4e6 solid;
+    border-radius: 10%;
+    background-color: #fcd4e6;
+    text-align: center
+}
+
+/* adding a background to the searchResults for visibility */
+#searchResults{
+    margin: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color:  #eee1e7;
+    border-radius: 1%;
+}
+
+/* add styling to the search bar */
+input { 
+    border-radius: 5%;
+    height: 2em;
+    width: 30em;
+    text-align: left;
+    outline: none;
+    cursor: text;
+    border-color: pink;
+}
+
+
