@@ -9,9 +9,11 @@
         no-repeat center center fixed;
     
     background-size: cover;
+    font-family: sans-serif;
 
 }
 
+/* implements a flexbox for the content */
 .wrapper {
     display: flex;
     align-items: center;
@@ -20,12 +22,13 @@
     text-align: left;
 }
 
-
+/* set visibility to hidden for both the searchResults and time divs */
 #searchResults, time {
     visibility: hidden;
-    /* display: none; */
+    
 }
 
+/* styling the title */
 #title {
     border: 10px  #fcd4e6 solid;
     border-radius: 10%;
@@ -33,6 +36,7 @@
     text-align: center
 }
 
+/* adding a background to the searchResults for visibility */
 #searchResults{
     margin: 10px;
     padding-left: 2px;
@@ -41,12 +45,7 @@
     border-radius: 1%;
 }
 
-/* button {
-    border-radius: 20%;
-    border-color: rgb(215, 127, 142);
-    background-color: #eee4cb;
-} */
-
+/* add styling to the search bar */
 input { 
     border-radius: 5%;
     height: 2em;
